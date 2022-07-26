@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "CompanyProject",
+			"path": "..\\..\\..\\..\\97.GitHubSync\\DonDora-ko\\CompanyProject\\CompanyProject"
+		}
+	],
+	"settings": {
+		"githubPullRequests.ignoredPullRequestBranches": [
+			"main"
+		]
+	}
+}
